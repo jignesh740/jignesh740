@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I'm Jignesh Patel
+👋 Hi, I’m Jignesh — Backend Developer (Spring Boot + Banking APIs)
 
-Backend Developer with experience in Banking Systems and Core Banking integration.
+✔ Building secure REST APIs  
+✔ Fraud detection & banking workflows  
+✔ Authentication & OTP systems  
+✔ Backend systems deployed to Linux + NGINX
+
 
 💼 Experience
 
@@ -56,6 +60,8 @@ Automated Debit Freeze Workflow
 
   API Security
 
-📫 Connect With Me
+📫 Let’s connect:
+LinkedIn: https://linkedin.com/in/jignesh-patel
+#Email: jignesh
 
-LinkedIn: https://www.linkedin.com/in/jignesh-patel-a083522a7?utm_source=share_via&utm_content=profile&utm_medium=member_android
+🔎 Open to freelancing backend API & Spring Boot work
