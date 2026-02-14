@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **jignesh740/jignesh740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,48 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I'm Jignesh Patel
+
+Backend Developer with experience in Banking Systems and Core Banking integration.
+
+💼 Experience
+
+IT Department – Banking Sector
+
+Complaint Management System
+
+Integration with Finacle (CBS)
+
+Automated Debit Freeze Workflow
+
+🚀 Tech Stack
+
+  Java
+
+  Spring Boot
+
+  Spring Security
+
+  JWT
+
+  REST APIs
+
+  MySQL / Oracle / PostgreSQL
+
+  Linux Deployment
+
+  Nginx Reverse Proxy
+
+🔐 Special Interest
+
+  Secure Authentication Systems
+
+  OTP / 2FA
+
+  Fraud Monitoring
+
+  API Security
+
+📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/jignesh-patel-a083522a7?utm_source=share_via&utm_content=profile&utm_medium=member_android
