@@ -62,6 +62,6 @@ Automated Debit Freeze Workflow
 
 📫 Let’s connect:
 LinkedIn: https://linkedin.com/in/jignesh-patel
-#Email: jignesh
+
 
 🔎 Open to freelancing backend API & Spring Boot work
